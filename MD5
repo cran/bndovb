@@ -1,10 +1,10 @@
-852ec23fc8b4c187ac40ed19cfeedbbc *DESCRIPTION
+aa9adb4b6605b34c53e4639a92a975cc *DESCRIPTION
 8e32ef371f1d64efee385df1642523e5 *NAMESPACE
 a6e010b449437392977e0f7f9915af84 *R/bndovb.R
-ab33bebb5cf9692136f6d387d3ba8adc *R/bndovbme.R
+b15f3f65616970650821bcaeebd5e8de *R/bndovbme.R
 bb6da46430ebf24ae82865145efc1266 *R/data.R
 f691d981c203917d9d16112cbe60346a *README.md
-f95d457c2345142327a5ed45f66b6083 *build/partial.rdb
+622632d565a1bb8dc4731b3d7322b41d *build/partial.rdb
 4f3d5a2dde9aa81cbf6925cdb83a9604 *build/vignette.rds
 17ce53c1ddf907e473954848398c9724 *data/auxdat_mecont.rda
 a5770a05ff8dc314676e48f01a30edfc *data/auxdat_medisc.rda
@@ -14,7 +14,7 @@ a5770a05ff8dc314676e48f01a30edfc *data/auxdat_medisc.rda
 6a8195973dcde9e2568940acd3c4a31e *data/maindat_nome.rda
 036c1fd54ef5ff279fa6d7c8c48ed6f1 *inst/doc/bndovb.R
 42ebbee0f06e6cc3ecae5f283c07132d *inst/doc/bndovb.Rmd
-9ee54cbadc7eb9517e3dc3b89b9a2ee7 *inst/doc/bndovb.html
+84b449b541a977ac4b782f682f4550db *inst/doc/bndovb.html
 2914d35ade8ea30daefea66c43e57466 *man/auxdat_mecont.Rd
 ede9f7a735fa442dcfe277290df6d0f0 *man/auxdat_medisc.Rd
 e2c1ad77d13cc0861ebe3707d87dde6c *man/auxdat_nome.Rd
